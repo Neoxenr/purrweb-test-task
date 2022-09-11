@@ -1,0 +1,18 @@
+:root {
+  --bg-color: #000;
+  --text-color: #fff;
+  --cookie-consent-color: #212834;
+  --cookie-consent-btn-color: rgba(255, 255, 255, 0.1);
+  --form-input-border-color: #5c5c5c;
+  --form-input-border-focused-color: #719ece;
+  --form-input-border-error-color: #ff0000;
+  --form-input-text-color: #bfbfbf;
+  --preview-image-gradient-color: rgba(250, 0, 255, 0.23);
+  --preview-image-gradient-color-mobile: rgba(250, 0, 255, 0.8);
+  --preview-description-gradient-color: rgba(96, 92, 234, 0.5);
+  --mission-description-info-title-gradient-color: #f101bf;
+  --generate-qr-image-gradient-color: linear-gradient(12.08deg, #f101bf 2.82%, #0066ff 97.06%);
+  --image-container-gradient-color: linear-gradient(179.83deg, #000000 -3.1%, rgba(0, 0, 0, 0) 56.76%, #000000 83.92%);
+  --form-header-gradient-color: linear-gradient(12.08deg, #f101bf 2.82%, #0066ff 97.06%);
+  --footer-contacts-gradient-color: linear-gradient(12.08deg, #f101bf 2.82%, #0066ff 97.06%);
+}
